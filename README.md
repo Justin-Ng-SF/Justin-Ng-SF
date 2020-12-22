@@ -1,5 +1,9 @@
 ### Hi there 👋
 I am a recent graduate of SFSU and currently pursuing a career in web development. I enjoy coding with my friends and hope to one day create a popular application used by everyone. 
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jstazn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jstazn)](https://github.com/anuraghazra/github-readme-stats)
 <!--
