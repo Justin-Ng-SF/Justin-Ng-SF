@@ -1,5 +1,4 @@
-### Hi there 👋
-I am a recent graduate of SFSU and currently pursuing a career in web development. I enjoy coding with my friends and hope to one day create a popular application used by everyone. 
+### Hi there 👋 
 
 
 
